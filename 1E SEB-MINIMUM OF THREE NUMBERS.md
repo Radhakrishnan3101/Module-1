@@ -23,7 +23,9 @@ smallest=min(a,b,c)
 print(f"The Smallest  of the three a= {a} b= {b} c= {c} is {smallest}")
 
 ## OUTPUT
-![Screenshot (123)](https://github.com/user-attachments/assets/8c490b77-0440-4131-ba46-7c24bb51cdbf)
+![Screenshot (124)](https://github.com/user-attachments/assets/682c53a3-86ac-4717-8753-26f8614789bf)
+
+
 
 
 
