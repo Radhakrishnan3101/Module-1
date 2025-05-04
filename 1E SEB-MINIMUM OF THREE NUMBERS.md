@@ -16,19 +16,14 @@ To write a Python program to find the minimum between three integer numbers usin
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
-# Write your code here
-
-num1 = int(input())
-num2 = int(input())
-num3 = int(input())
-
-min_num = num1 if (num1 <= num2 and num1 <= num3) else num2 if (num2 <= num1 and num2 <= num3) else num3
-
-print(f"The minimum of {num1}, {num2}, {num3} is {min_num}")
-```
+a=int(input())
+b=int(input())
+c=int(input())
+smallest=min(a,b,c)
+print(f"The Smallest  of the three a= {a} b= {b} c= {c} is {smallest}")
 
 ## OUTPUT
+![Screenshot (123)](https://github.com/user-attachments/assets/7296a49f-0b74-4afb-94c0-8393591add04)
 
 ## RESULT
+Thus the minimum of three numbers is found by the code
