@@ -27,5 +27,6 @@ else:
 ```
 
 ## OUTPUT
+![Screenshot (122)](https://github.com/user-attachments/assets/7528d94d-35ac-4c9d-8abb-0e2456faddd2)
 
 ## RESULT
