@@ -23,7 +23,8 @@ smallest=min(a,b,c)
 print(f"The Smallest  of the three a= {a} b= {b} c= {c} is {smallest}")
 
 ## OUTPUT
-![Screenshot (123)](https://github.com/user-attachments/assets/7296a49f-0b74-4afb-94c0-8393591add04)
+![Screenshot (123)](https://github.com/user-attachments/assets/d589da0d-e8fc-4c6f-8bb4-2ed4d66b5c7b)
+
 
 ## RESULT
 Thus the minimum of three numbers is found by the code
