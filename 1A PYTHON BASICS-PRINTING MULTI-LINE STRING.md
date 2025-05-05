@@ -29,6 +29,7 @@ print(string_single_quotes)
 print(string_double_quotes)
 ```
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/2dc6bee2-a69c-4eb2-8835-128d58379515)
 
 ## RESULT
-
+Thus the string are printed
