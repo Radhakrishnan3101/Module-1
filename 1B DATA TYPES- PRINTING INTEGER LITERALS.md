@@ -1,29 +1,24 @@
-# Experiment No: 1B- Data Types – Printing Integer Literals
+# Experiment No: 1B- Data Types – Printing characteer Literals
 
 ## AIM  
-To write a Python program to print the following integer literals: 123, 456, 789.
+To write a Python program to print the following character literals.
 
 ## ALGORITHM  
 1. Begin the program.  
-2. Initialize the integer literals `123`, `456`, and `789`.  
-3. Use the `print()` function to display the numbers `123`, `456`, and `789`.  
+2. Initialize the character literals  
+3. Use the `print()` function to display the characters.
 4. Terminate the program.
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
-# Write your code here
-
-num1 = 123
-num2 = 456
-num3 = 789
-
-print(num1)
-print(num2)
-print(num3)
+x='T'
+y='a'
+print(x)
+print(y)
 
 ```
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/0c9f0287-f392-486a-b897-14a780b1428c)
 
 ## RESULT
+Thus the character literals are printed
