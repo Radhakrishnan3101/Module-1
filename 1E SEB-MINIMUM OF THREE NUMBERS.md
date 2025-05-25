@@ -20,7 +20,9 @@ a=int(input())
 b=int(input())
 
 c=int(input())
+
 smallest=min(a,b,c)
+
 print(f"The Smallest  of the three a= {a} b= {b} c= {c} is {smallest}")
 
 ## OUTPUT
