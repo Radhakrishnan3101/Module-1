@@ -15,7 +15,6 @@ To write a Python program to find the minimum between three integer numbers usin
 5. Terminate the program.
 
 ## PROGRAM
-```python
 a=int(input())
 b=int(input())
 c=int(input())
@@ -23,7 +22,8 @@ smallest=min(a,b,c)
 print(f"The Smallest  of the three a= {a} b= {b} c= {c} is {smallest}")
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/984c7203-fc53-4fa2-b0cf-f283eeed45fd)
+![image](https://github.com/user-attachments/assets/aac98bd8-953b-4060-8312-8529c87eb960)
+
 
 
 
@@ -31,4 +31,4 @@ print(f"The Smallest  of the three a= {a} b= {b} c= {c} is {smallest}")
 
 
 ## RESULT
-Thus the minimum of three numbers is found by the code
+Thus the python program for finding minimum of three numbers is executed successfully.
