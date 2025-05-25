@@ -26,4 +26,4 @@ else:
 ![Screenshot (122)](https://github.com/user-attachments/assets/7528d94d-35ac-4c9d-8abb-0e2456faddd2)
 
 ## RESULT
-          Thus the code for check a character is vowel or not is checked usong code
+          Thus the code for checking a character is vowel or not is executed successfully.
