@@ -1,4 +1,4 @@
-# Experiment No: 1B- Data Types – Printing characteer Literals
+# Experiment No: 1B- Data Types – Printing character Literals
 
 ## AIM  
 To write a Python program to print the following character literals.
@@ -21,4 +21,4 @@ print(y)
 ![image](https://github.com/user-attachments/assets/0c9f0287-f392-486a-b897-14a780b1428c)
 
 ## RESULT
-Thus the character literals are printed
+Thus the character literals is printed and code executed successfully.
